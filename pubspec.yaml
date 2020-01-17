@@ -1,8 +1,8 @@
 name: flutter_package_test
-description: A new Flutter package.
+description: A new Flutter package for testing.
 version: 0.0.1
-author:
-homepage:
+author: Pradeep<pradeepn@nousinfo.com>
+homepage: https://github.com/NousPradeepN/flutterPackageTest
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
